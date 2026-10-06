@@ -1,0 +1,103 @@
+[
+  {
+    "year": 2021,
+    "folder": "envyyhe5a",
+    "file": "E1a_BE_2021.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envyyhe5a/E1a_BE_2021.xml",
+    "ok": true,
+    "purpose": "Boundary hour for 1 January 2022 Belgian local time only",
+    "sha256": "2535e0e771a0b516ac8bf6b68b20fba60430e271e7547c093da4be703360ebce",
+    "bytes": 200572850,
+    "hourly_pm25_observation_blocks": 74
+  },
+  {
+    "year": 2022,
+    "folder": "envzmpadw",
+    "file": "E1a_BE_2022.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envzmpadw/E1a_BE_2022.xml",
+    "bytes": 223208476,
+    "ok": true,
+    "sha256": "240324b227ad1b23408ac420e65af9d83e4b2d5c3efe12cfc6637b11726ac62f",
+    "hourly_pm25_observation_blocks": 82
+  },
+  {
+    "year": 2022,
+    "folder": "envzpcpya",
+    "file": "E1a_BE_2022_eoi.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envzpcpya/E1a_BE_2022_eoi.xml",
+    "bytes": 10363260,
+    "ok": true,
+    "sha256": "fba177511b5f825a7c9e0d661186f4c29ae995c1e8d8f7c77730a7e32eac3192",
+    "hourly_pm25_observation_blocks": 0
+  },
+  {
+    "year": 2023,
+    "folder": "envzt7dia",
+    "file": "E1a_BE_2023.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envzt7dia/E1a_BE_2023.xml",
+    "bytes": 213044838,
+    "ok": true,
+    "sha256": "11c223ff7df16b12e4230893f8e8ff932d1ec4d3a55a6295673715ece30cacbd",
+    "hourly_pm25_observation_blocks": 78
+  },
+  {
+    "year": 2023,
+    "folder": "envzufewq",
+    "file": "E1a_BE_2023_add.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envzufewq/E1a_BE_2023_add.xml",
+    "bytes": 1100625,
+    "ok": true,
+    "sha256": "29f13ee1bcbeaec167065125f1f4e73cc455c3962180929b70f71aef20511b84",
+    "hourly_pm25_observation_blocks": 1
+  },
+  {
+    "year": 2023,
+    "folder": "envzuastq",
+    "file": "E1a_BE_2023_eoi.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envzuastq/E1a_BE_2023_eoi.xml",
+    "bytes": 9820633,
+    "ok": true,
+    "sha256": "fc9b079da5fdbe9d0ae55afdf7a3e4f48ff300596bd09c96753e7219c0c25736",
+    "hourly_pm25_observation_blocks": 0
+  },
+  {
+    "year": 2024,
+    "folder": "envamk34w",
+    "file": "E1a_BE_2024.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envamk34w/E1a_BE_2024.xml",
+    "bytes": 224464292,
+    "ok": true,
+    "sha256": "6e774d9fde7def05dc87a8887b925d48a3891aa2b730ed13197b5a3819a83998",
+    "hourly_pm25_observation_blocks": 88
+  },
+  {
+    "year": 2024,
+    "folder": "envaml69g",
+    "file": "E1a_BE_2024_eoi.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envaml69g/E1a_BE_2024_eoi.xml",
+    "bytes": 13301150,
+    "ok": true,
+    "sha256": "6b992252874266f84b55754193751ef950b532880e27a4536890072cbc863cfc",
+    "hourly_pm25_observation_blocks": 0
+  },
+  {
+    "year": 2025,
+    "folder": "envaqf5fw",
+    "file": "E1a_BE_2025.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envaqf5fw/E1a_BE_2025.xml",
+    "bytes": 265559226,
+    "ok": true,
+    "sha256": "b47927c3e2cdcab6d1dc9b4aa827cf13a4d53c88688c60824d004a256cde1210",
+    "hourly_pm25_observation_blocks": 85
+  },
+  {
+    "year": 2025,
+    "folder": "envaqqosq",
+    "file": "E1a_BE_2025_eoi_complete.xml",
+    "url": "https://cdr.eionet.europa.eu/be/eu/aqd/e1a/envaqqosq/E1a_BE_2025_eoi_complete.xml",
+    "bytes": 13283494,
+    "ok": true,
+    "sha256": "4f5d066aa06f8fdcdbc003cf3d4992c2103a11ea8830c003142a0c59f068f19a",
+    "hourly_pm25_observation_blocks": 0
+  }
+]

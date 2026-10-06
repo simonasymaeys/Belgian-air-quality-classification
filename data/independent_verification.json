@@ -1,0 +1,135 @@
+{
+  "scalar_xml_checks": [
+    {
+      "station": "42R842 Mechelen",
+      "date": "2022-01-01",
+      "expected_hours": 24,
+      "valid_hours": 24,
+      "independent_mean": 6.971666666666667,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2022-03-27",
+      "expected_hours": 23,
+      "valid_hours": 23,
+      "independent_mean": 20.516521739130436,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2022-10-30",
+      "expected_hours": 25,
+      "valid_hours": 25,
+      "independent_mean": 13.1976,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2022-12-31",
+      "expected_hours": 24,
+      "valid_hours": 24,
+      "independent_mean": 3.955833333333333,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2023-01-01",
+      "expected_hours": 24,
+      "valid_hours": 24,
+      "independent_mean": 6.795416666666667,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2023-03-26",
+      "expected_hours": 23,
+      "valid_hours": 23,
+      "independent_mean": 5.067826086956522,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2023-10-29",
+      "expected_hours": 25,
+      "valid_hours": 25,
+      "independent_mean": 3.384,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2023-12-31",
+      "expected_hours": 24,
+      "valid_hours": 24,
+      "independent_mean": 3.9949999999999997,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2024-01-01",
+      "expected_hours": 24,
+      "valid_hours": 24,
+      "independent_mean": 5.577906250000001,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2024-03-31",
+      "expected_hours": 23,
+      "valid_hours": 23,
+      "independent_mean": 6.776597826086957,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2024-10-27",
+      "expected_hours": 25,
+      "valid_hours": 0,
+      "independent_mean": null,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2024-12-31",
+      "expected_hours": 24,
+      "valid_hours": 24,
+      "independent_mean": 8.940822916666667,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2025-01-01",
+      "expected_hours": 24,
+      "valid_hours": 24,
+      "independent_mean": 5.5947604166666665,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2025-03-30",
+      "expected_hours": 23,
+      "valid_hours": 23,
+      "independent_mean": 7.170804347826087,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2025-10-26",
+      "expected_hours": 25,
+      "valid_hours": 25,
+      "independent_mean": 2.91863,
+      "pass": true
+    },
+    {
+      "station": "42R842 Mechelen",
+      "date": "2025-12-31",
+      "expected_hours": 24,
+      "valid_hours": 24,
+      "independent_mean": 11.60328125,
+      "pass": true
+    }
+  ],
+  "all_station_day_label_checks": "pass",
+  "duplicate_station_day_check": "pass",
+  "hour_grid_and_dst_totals_check": "pass"
+}
