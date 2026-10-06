@@ -1,0 +1,109 @@
+{
+  "timezone": "Europe/Brussels",
+  "matched_stations": 81,
+  "unmatched_stations": [
+    "44EG08- Evergem",
+    "44WG06 - Wondelgem",
+    "40HB81 - Hoboken"
+  ],
+  "calendar_days_per_station": 1461,
+  "hours_per_station": 35064,
+  "training_stations": 60,
+  "previous_panel_count": 58,
+  "added_to_training_panel": [
+    "10954",
+    "11042",
+    "11116"
+  ],
+  "removed_from_training_panel": [
+    "6564"
+  ],
+  "years": [
+    {
+      "year": 2022,
+      "station_count": 60,
+      "eligible_station_days": 21565,
+      "elevated_station_days": 4173,
+      "elevated_pct": 19.35079990725713,
+      "mechelen_eligible_days": 365,
+      "mechelen_elevated_days": 85
+    },
+    {
+      "year": 2023,
+      "station_count": 60,
+      "eligible_station_days": 21603,
+      "elevated_station_days": 3258,
+      "elevated_pct": 15.081238716844883,
+      "mechelen_eligible_days": 365,
+      "mechelen_elevated_days": 65
+    },
+    {
+      "year": 2024,
+      "station_count": 60,
+      "eligible_station_days": 21291,
+      "elevated_station_days": 2457,
+      "elevated_pct": 11.5400873608567,
+      "mechelen_eligible_days": 345,
+      "mechelen_elevated_days": 41
+    },
+    {
+      "year": 2025,
+      "station_count": 60,
+      "eligible_station_days": 21275,
+      "elevated_station_days": 3196,
+      "elevated_pct": 15.022326674500588,
+      "mechelen_eligible_days": 365,
+      "mechelen_elevated_days": 61
+    }
+  ],
+  "reconciliation_totals": {
+    "official_flagged_hours": 2612337,
+    "verified_valid_hours": 2507680,
+    "api_nonnegative_rejected_hours": 25983,
+    "verified_valid_missing_in_api": 108045,
+    "api_negative_but_official_valid": 282,
+    "value_differences_over_tolerance": 700038
+  },
+  "daylight_saving_dates": [
+    {
+      "local_date": "2022-03-27",
+      "expected_hours": 23,
+      "minimum_valid_hours": 18
+    },
+    {
+      "local_date": "2022-10-30",
+      "expected_hours": 25,
+      "minimum_valid_hours": 19
+    },
+    {
+      "local_date": "2023-03-26",
+      "expected_hours": 23,
+      "minimum_valid_hours": 18
+    },
+    {
+      "local_date": "2023-10-29",
+      "expected_hours": 25,
+      "minimum_valid_hours": 19
+    },
+    {
+      "local_date": "2024-03-31",
+      "expected_hours": 23,
+      "minimum_valid_hours": 18
+    },
+    {
+      "local_date": "2024-10-27",
+      "expected_hours": 25,
+      "minimum_valid_hours": 19
+    },
+    {
+      "local_date": "2025-03-30",
+      "expected_hours": 23,
+      "minimum_valid_hours": 18
+    },
+    {
+      "local_date": "2025-10-26",
+      "expected_hours": 25,
+      "minimum_valid_hours": 19
+    }
+  ]
+}
